@@ -1,5 +1,5 @@
 public class helloworld {
    public static void main(String[] args) {
-    System.out.println("Hello World from GitHub after change from git bash. After first change");
+    System.out.println("Hello World from GitHub after changes for project 5.");
     }
 }
